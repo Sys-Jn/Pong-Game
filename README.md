@@ -98,7 +98,7 @@ Player 2 (Right Paddle):
 
 ## Author
 Sanyam Jain  
-Student | Python Game Development
+Student 
 
 ---
 
